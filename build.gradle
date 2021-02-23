@@ -30,5 +30,6 @@ subprojects {
     dependencies {
         testImplementation 'org.junit.jupiter:junit-jupiter-api'
         testImplementation 'org.assertj:assertj-core'
+        testCompile "org.springframework.boot:spring-boot-starter-test"
     }
 }
