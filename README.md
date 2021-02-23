@@ -6,4 +6,4 @@ Spring Boot 기반의 멀티 모듈 프로젝트를 연습해보기 위한 Repos
 
 multi-module: Root Project 
 
-└─ project-commons : 프로젝트들에서 공통으로 사용하기 위한 Module (Spring 코드를 사용하지 않는 순수한 POJO들)
+└─ project-commons : 프로젝트들에서 공통으로 사용하기 위한 Module
