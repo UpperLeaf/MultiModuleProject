@@ -31,7 +31,6 @@ public class RedisConfig {
     }
 
     @Bean
-    @ConditionalOnMissingBean
     public RedisUtil redisUtil() {
         return new RedisUtil(stringRedisTemplate());
     }
