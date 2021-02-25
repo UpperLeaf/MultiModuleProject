@@ -2,3 +2,4 @@ rootProject.name = 'multi-module'
 
 include 'project-commons'
 include 'project-redis'
+include 'post-domain'
